@@ -1,0 +1,104 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    background-color: #ffffff;
+}
+
+h1 {
+    display: block;
+    color: black;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 41px;
+    letter-spacing: 0.41px;
+    margin-top: 128px;
+    margin-right: 277px;
+    margin-left: 16px;
+}
+
+.first-paragraph {
+    display: block;
+    color: black;
+    opacity: 50%;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 26px;
+    margin-top: 12px;
+    margin-right: 16px;
+    margin-left: 16px;
+    margin-bottom: 102px;
+}
+
+.input-personal {
+    display: block;
+    background: #F2F2F7;
+    border-radius: 6px;
+    width: 343px;
+    height: 48px;
+    margin: auto;
+    margin-bottom: 12px;
+    border: none;
+    padding-left: 14px;
+}
+
+input::placeholder {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    letter-spacing: -0.41px;
+    color: #929292;
+}
+
+.forgot-paragraph {
+    display: block;
+    text-align: end;
+    margin-top: 17px;
+    margin-right: 16px;
+    text-decoration: none;
+    letter-spacing: -0.41px;
+    color: #007AFF;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    margin-bottom: 20px;
+}
+
+.login-button {
+    display: block;
+    width: 343px;
+    height: 48px;
+    background: rgba(0, 0, 0, 0.94);
+    border-radius: 10px;
+    color: #FFFFFF;
+    margin: auto;
+    margin-bottom: 204px;
+    border: none;
+    text-align: center;
+    letter-spacing: -0.41px;
+    color: #FFFFFF;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 22px;
+}
+
+.signup {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.51);
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+strong {
+    color: #007AFF;
+}
